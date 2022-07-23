@@ -26,7 +26,7 @@ https://docs.google.com/presentation/d/16frh77sTcmW34-_5pFlaRbNFOBeQ8Tfuv43_wfsW
 
 #### 初めてクローンする時(作業するディレクトリ配下で)
 ```python:docker.py
-git clone https://github.com/tsukaryo/Supporters_Hackathon.git
+git clone https://github.com/ShinsukeKondo/supporters_hackathon22-06.git
 cd Supporters_Hackathon
 docker-compose build
 docker-compose run web python3 manage.py migrate auth
